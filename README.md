@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm aDL1n 👋</h1>
+<p align="center">Junior Java Developer • Rust Learner • ESP32 Enthusiast</p>
 
-<!--
-**aDL1n/aDL1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-learning-black?logo=rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000?logo=espressif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- Junior **Java Developer**  
+- Learning **Rust**  
+- Building personal projects on **ESP32**  
+- Basic knowledge of **ML**, **PyTorch**, **Python**  
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aDL1n&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aDL1n&layout=compact&hide_border=true" />
+</p>
