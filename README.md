@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm aDL1n 👋</h1>
-<p align="center">Junior Java Developer • Rust Learner • ESP32 Enthusiast</p>
+<h1 align="center">Hi, I'm aDL1n :)</h1>
+<p align="center">Junior Java Developer • Rust Learner</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" />
@@ -8,13 +8,11 @@
   <img src="https://img.shields.io/badge/ESP32-000?logo=espressif" />
 </p>
 
----
-
-### 💻 About Me
-- Junior **Java Developer**  
-- Learning **Rust**  
-- Building personal projects on **ESP32**  
-- Basic knowledge of **ML**, **PyTorch**, **Python**  
+## About Me
+- Junior **Java Developer**
+- Learning **Rust**
+- Building personal projects on **ESP32**
+- Basic knowledge of **ML**, **PyTorch**, **Python**, **CS**
 
 ---
 
