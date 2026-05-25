@@ -11,6 +11,7 @@
 ## About Me
 - Junior **Java Developer**
 - Learning **Rust**
+- Student majoring in “System Administration”
 - Building personal projects on **ESP32**
 - Basic knowledge of **ML**, **PyTorch**, **Python**, **CS**
 
